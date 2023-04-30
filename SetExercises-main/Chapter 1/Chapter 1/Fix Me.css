@@ -1,0 +1,25 @@
+/*The codes below this comment is applied to all contents inside <h1>*/
+h1{
+    font-size: 3rem; /*font-size is used to change the size of the font*/
+    text-align: center; /*text-align is used to change the alignment of the text*/
+}
+/*The codes below this comment is applied to all contents inside <h2>*/
+h2{
+    font-size: 1.25rem;
+    text-align: center;
+}
+/*The codes below this comment is applied to all contents inside <h5>*/
+h5{
+    font-size: 1.1rem;
+    text-align: center;
+    font-style: italic; /*font-style is used to change the font used for the text*/
+}
+/*The codes below this comment is applied to all contents inside <p>*/
+p{
+    line-height: 1.3; /*line-height changes the distance between each lines inside the paragraph*/
+}
+/*The codes below this comment is applied to all contents inside <body>*/
+body{
+    background-color: aliceblue; /*background-color is used to change the color of the background*/
+    font-family: Georgia, serif; /*font-family is used to change which font is used for every text used inside <body>*/
+}
