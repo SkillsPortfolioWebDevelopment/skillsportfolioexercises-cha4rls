@@ -1,0 +1,46 @@
+body{
+    background-image: url("sound.jpg");
+    background-size: cover;
+  }
+  
+  .playbutton { 
+    color: green ;
+    border: 5px solid yellow ;
+    border-radius: 20px;
+    letter-spacing: 0.4px ;
+    transition: all .3s;
+    font-size: 1.3em;
+    width: 400px;
+    height: 200px;
+  }
+  
+   .playbutton:hover{
+    background-color: lightgreen;
+    color: peachpuff;
+   }
+   
+  
+   .box ul{
+    list-style-type: none; 
+  }
+  
+  .box li{
+      margin:0 40px 0 0; 
+        padding:15px; 
+       float:left; 
+  
+      }
+  
+   .Button{
+      position: absolute;
+      top: 130px;
+      left: 298px;
+  }
+  
+  .header1{
+    color: white;
+    -webkit-text-stroke: 1.5px rgb(0, 0, 0); /*text border*/
+    font-size: 5em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, Arial, Helvetica, sans-serif;
+    text-align: center;
+  }

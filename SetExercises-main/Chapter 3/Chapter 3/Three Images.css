@@ -1,0 +1,15 @@
+#A {
+    width: 775px;
+    height: 475px;
+    filter:grayscale(95);
+}
+#B {
+    width: 775px;
+    height: 475px;
+    filter: drop-shadow(5);
+}
+#C {
+    width: 775px;
+    height: 475px;
+    filter:opacity(65);
+}
